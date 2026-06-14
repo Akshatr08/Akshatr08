@@ -1,39 +1,38 @@
 <div align="center">
 
-<!-- Animated name banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=120&section=header&text=Akshat%20Rathore&fontSize=42&fontColor=e6edf3&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:0d2137,100:58a6ff&height=200&section=header&text=Akshat%20Rathore&fontSize=50&fontColor=e6edf3&fontAlignY=60&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%7C%20Founder%20%40%20CircuitFeed&descSize=16&descAlignY=78&descAlign=50" width="100%"/>
 
-<!-- Badges -->
-<a href="https://circuitfeed.tech"><img src="https://img.shields.io/badge/Founder%20%40-CircuitFeed-30a14e?style=flat-square&logoColor=white"/></a>
+<br/>
+
+<a href="https://circuitfeed.tech"><img src="https://img.shields.io/badge/🚀%20Founder%20%40-CircuitFeed-30a14e?style=flat-square"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/CSE%20Student-DITM%20%7C%20MDU%20Rohtak-58a6ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Developer-Full%20Stack-58a6ff?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Delhi-India-e6edf3?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSE-1st%20Year-a78bfa?style=flat-square"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Akshatr08&style=flat-square&color=58a6ff&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Akshatr08&style=flat-square&color=58a6ff&label=👁️+Profile+Views"/>
 
 <br/><br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Developer;Founder+%40+CircuitFeed;I+don't+just+build+apps+—+I+ship+products.;React+%7C+Next.js+%7C+Node.js+%7C+Gemini+%7C+Cloud;Open+to+Internships+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+AI+Developer+⚡;Founder+%40+CircuitFeed+🚀;I+don't+just+build+apps+—+I+ship+products.;5%2B+Live+AI+Products+in+the+Wild+🌍;React+·+Next.js+·+Node.js+·+Gemini+·+Cloud;Open+to+Internships+%26+Collabs+👋" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ Who Am I
 
 ```ts
-const akshat = {
-  role:       "Full-Stack AI Developer & Founder",
-  building:   "CircuitFeed — signal-first AI & tech intelligence platform",
-  college:    "Delhi Institute of Technology & Management (MDU, Rohtak)",
-  year:       "1st year CSE · Batch 2025–2029",
-  location:   "Delhi, India 🇮🇳",
-  seeking:    ["Internships", "Open source collabs", "Startup engineering"],
-  contact:    "akshatr006@gmail.com",
-  site:       "https://circuitfeed.tech",
-  chess:      "Blitz 2183 · 99.7th percentile 🧠",
+const akshat: Developer = {
+  role:      "Full-Stack AI Developer & Founder",
+  building:  "CircuitFeed — signal-first AI & tech intelligence platform",
+  year:      "1st year CSE  |  Batch 2025–2029",
+  location:  "India 🇮🇳",
+  seeking:   ["Internships", "Open-source collabs", "Startup engineering"],
+  shipped:   "5+ live AI products built & deployed independently",
+  contact:   "akshatr006@gmail.com",
+  site:      "https://circuitfeed.tech",
+  superpower: "I turn ideas into live products, fast.",
 };
 ```
 
@@ -41,18 +40,24 @@ const akshat = {
 
 ## 🚀 Things I've Shipped
 
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| [**CircuitFeed**](https://circuitfeed.tech) | Signal-first AI & tech intel platform. Built solo — full stack, brand, distribution | Next.js · Node.js · AI pipelines | 🟢 Live |
-| [**Eunoia**](https://eunoia-wellness.vercel.app) | Open-source mental wellness platform with AI check-ins · UN SDG 3 | React · OpenAI · Vercel | 🟢 Live |
-| [**VotePath AI**](https://votepath-ai-873934402022.us-central1.run.app) | Multilingual civic guidance with real-time election timelines | Gemini AI · Cloud Run | 🟢 Live |
-| [**CrowdFlow AI**](https://crowdflow-ai-873934402022.asia-south1.run.app) | Stadium crowd optimization & wait-time reduction | Google Cloud Run | 🟢 Live |
-| [**Sentinel AI**](https://sentinelaidisaster.vercel.app) | Real-time disaster prediction with AI damage assessment · Top 16 Globally | AI · Vercel | 🟢 Live |
-| [**Chillomo**](https://chillomo.netlify.app/spaces) | Immersive lofi ambient study environment | HTML · CSS · JS | 🟢 Live |
+<div align="center">
+
+| 🔗 Project | 💡 What it does | 🛠 Stack | 🟢 |
+|:---|:---|:---|:---:|
+| [**CircuitFeed**](https://circuitfeed.tech) | Signal-first AI & tech intel platform — built solo end to end | Next.js · Node.js · AI pipelines | Live |
+| [**Eunoia**](https://eunoia-wellness.vercel.app) | Open-source mental wellness platform with AI check-ins · UN SDG 3 | React · OpenAI · Vercel | Live |
+| [**VotePath AI**](https://votepath-ai-873934402022.us-central1.run.app) | Multilingual civic guidance with real-time election timelines | Gemini AI · Cloud Run | Live |
+| [**CrowdFlow AI**](https://crowdflow-ai-873934402022.asia-south1.run.app) | Real-time stadium crowd optimization & wait-time reduction | Google Cloud Run | Live |
+| [**Sentinel AI**](https://sentinelaidisaster.vercel.app) | Disaster prediction with AI damage assessment · **Top 16 Globally** | AI · Vercel | Live |
+| [**Chillomo**](https://chillomo.netlify.app/spaces) | Immersive lofi ambient study sanctuary — first solo shipped product | HTML · CSS · JS | Live |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -84,27 +89,23 @@ const akshat = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**CS Fundamentals**
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a2332?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 &nbsp;**1st Place** — Design Decode, Fusion X Tech Fest · IITM College of Engineering *(Oct 2025 · Solo)*
+<div align="center">
 
-🌍 &nbsp;**Top 16 Globally** — Goldsmiths University International Hackathon *(Built Sentinel AI)*
+| 🏅 | What | When |
+|:---:|:---|:---|
+| 🥇 | **1st Place** — Design Decode, Fusion X Tech Fest · IITM College of Engineering · Solo win | Oct 2025 |
+| 🌍 | **Top 16 Globally** — Goldsmiths University International Hackathon · Built Sentinel AI | 2025 |
+| ☁️ | **Google PromptWars** — Shipped 2 full-stack AI products on Google Cloud under competition | 2025 |
 
-☁️ &nbsp;**Google PromptWars Participant** — Shipped 2 full-stack AI products on Google Cloud under competition conditions
-
----
-
-## ♟️ Chess (Chess.com) — Top 0.3% Globally
-
-> Blitz **2183** · 99.7th percentile &nbsp;|&nbsp; Bullet **2026** · 99.5th percentile
+</div>
 
 ---
 
@@ -112,15 +113,82 @@ const akshat = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshatr08&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatr08&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatr08&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatr08&theme=github_dark&hide_border=true&layout=compact&langs_count=8&border_radius=12" height="170"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akshatr08&theme=github-dark-blue&hide_border=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Akshatr08&theme=github-dark-blue&hide_border=true&border_radius=12" height="155"/>
 
 </div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akshatr08&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatr08&theme=react-dark&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&color=8b949e&radius=12" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshatr08/Akshatr08/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshatr08/Akshatr08/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Akshatr08/Akshatr08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+> ⚙️ **To activate the snake:** Go to your profile repo → Actions tab → New workflow → paste the snake workflow below → run it once. It auto-updates daily after that.
+
+<details>
+<summary>📋 Click to copy the snake GitHub Action</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Akshatr08
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -140,8 +208,10 @@ const akshat = {
 
 <div align="center">
 
-*"I don't just build products — I build with intention."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don't%20just%20build%20products%20—%20I%20build%20with%20intention.&author=Akshat%20Rathore" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=80&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
